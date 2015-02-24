@@ -1,0 +1,13 @@
+<PreferenceScreen   
+    xmlns:android="http://schemas.android.com/apk/res/android"   
+    android:title="Settings">
+    
+	<EditTextPreference android:key="setpassword"
+	    android:title="@string/setpassword"
+	    android:defaultValue="123456" />
+    
+    <PreferenceCategory android:key="setapp"
+        android:title="@string/setapp" >
+    </PreferenceCategory>
+        
+</PreferenceScreen>  

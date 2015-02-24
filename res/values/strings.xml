@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Corgi</string>
+    <string name="setapp">Set Security Applications</string>
+    <string name="setpassword">Set Password</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lock">LockActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="input_password">Please input password</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
